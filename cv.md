@@ -1,0 +1,77 @@
+# **Urunov Farxod**
+![My photo](/photo.jpg)
+___
+
+## **Contact information**
+### **Tel:** +998 (93) 995-94-98
+### **Email:** urunovfar@gmail.com
+
+___
+
+## **About Me**
+#### *Extremely motivated all the time develop your skills and grow professionally. Confident in your ability offer interesting ideas for campaigns*
+
+___
+
+## **Skills**
+
+### *HTML
+### *CSS
+### *SASS
+### *Tailwind
+### *Bootstrap
+### *JavaScript
+### *React
+### *Next.js
+### *Redux
+### *Vue 3 js
+### *Git
+### *GitHub
+### *VS Code
+
+___
+
+## **Portfolio**
+## [Code examples](https://github.com/FarxodUrunov intex-admin)
+
+___
+
+## **Code examples**
+
+### *5 kyu Valid Parentheses*
+```JavaScript
+function validParentheses(parens) {
+  let a = '(';
+  let b = ')';
+  let obj = { ')': '(' };
+  let arr = [];
+  if (parens === '') return true;
+
+  for (let i = 0; i < parens.length; i++){
+    if (a.includes(parens[i])) {
+      arr.push(parens[i])
+    } else if (b.includes(parens[i])) {
+      if (arr.length === 0) return false;
+      if (arr[arr.length - 1] === obj[parens[i]]) {
+        arr.pop();
+      } else {
+        return false
+      }
+    }
+  }
+  return arr.length === 0;
+}
+```
+___
+
+## **Experience**
+
+### *May 2022 - present* - *Support IT Solution Ташкент, supportsolution.uz/*
+
+___
+
+## **Education**
+
+#### *Tashkent University information technologies
+#### *PDP Academy Bootcamp - Frontend developer
+#### *Udemy - JavaScript + React - from scratch to result
