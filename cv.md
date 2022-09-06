@@ -1,6 +1,7 @@
-# **Urunov Farxod**
 ![My photo](/photo.jpg)
-___
+# **Urunov Farxod**
+
+
 
 ## **Contact information**
 ### **Tel:** +998 (93) 995-94-98
@@ -15,28 +16,18 @@ ___
 
 ## **Skills**
 
-### *HTML
-### *CSS
-### *SASS
-### *Tailwind
-### *Bootstrap
-### *JavaScript
-### *React
-### *Next.js
-### *Redux
-### *Vue 3 js
-### *Git
-### *GitHub
-### *VS Code
-
+*HTML  	*Tailwind		*React		*Vue 3 js
+*CSS	*Bootstrap		*Next.js	*Git
+*SASS	*JavaScript		*Redux		*GitHub
+*VS Code
 ___
 
 ## **Portfolio**
-## [Code examples](https://github.com/FarxodUrunov intex-admin)
+## [Code examples](https://github.com/FarxodUrunov/intex-admin)
 
 ___
 
-## **Code examples**
+## **Code examples** *Codewars*
 
 ### *5 kyu Valid Parentheses*
 ```JavaScript
@@ -72,6 +63,6 @@ ___
 
 ## **Education**
 
-#### *Tashkent University information technologies
-#### *PDP Academy Bootcamp - Frontend developer
-#### *Udemy - JavaScript + React - from scratch to result
+*Tashkent University information technologies
+*PDP Academy Bootcamp - Frontend developer
+*Udemy - JavaScript + React - from scratch to result
