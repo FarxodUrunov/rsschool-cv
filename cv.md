@@ -1,13 +1,13 @@
 ![My photo](/photo.jpg)
-# **Urunov Farxod**
+ **Urunov Farxod**
+=================
 
-
+________________________
 
 ## **Contact information**
 ### **Tel:** +998 (93) 995-94-98
 ### **Email:** urunovfar@gmail.com
-
-___
+________________________
 
 ## **About Me**
 #### *Extremely motivated all the time develop your skills and grow professionally. Confident in your ability offer interesting ideas for campaigns*
@@ -16,14 +16,11 @@ ___
 
 ## **Skills**
 
-*HTML  	*Tailwind		*React		*Vue 3 js
-*CSS	*Bootstrap		*Next.js	*Git
-*SASS	*JavaScript		*Redux		*GitHub
-*VS Code
+#### HTML, Tailwind, React, Vue 3 js, CSS, Bootstrap, Next.js, Git, SASS, JavaScript, Redux, GitHub, VS Code
 ___
 
 ## **Portfolio**
-## [Code examples](https://github.com/FarxodUrunov/intex-admin)
+## [GitHub link](https://github.com/FarxodUrunov/intex-admin)
 
 ___
 
@@ -63,6 +60,8 @@ ___
 
 ## **Education**
 
-*Tashkent University information technologies
-*PDP Academy Bootcamp - Frontend developer
-*Udemy - JavaScript + React - from scratch to result
+#### *Tashkent University information technologies*
+#### *PDP Academy Bootcamp - Frontend developer*
+#### *Udemy - JavaScript + React - from scratch to result*
+
+__________
