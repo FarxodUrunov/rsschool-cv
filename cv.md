@@ -1,6 +1,6 @@
 ![My photo](/photo.jpg)
- **Urunov Farxod**
-=================
+# **Urunov Farxod**
+
 
 ________________________
 
